@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎓 Learning Python & Machine Learning<br>📊 Exploring data and models<br>🚀 One project at a time
+I am a Data Analytics and Machine Learning enthusiast with hands-on experience building models from scratch.
+I explore, clean, and analyze real-world datasets, implement regression models, and develop CNNs for image classification.
+Through each project, I aim to understand algorithms at a deep level and improve my practical skills step by step.
 
 
 ## 🌐 Socials:
