@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am a Machine Learning and Data Analytics enthusiast with hands-on experience building models from scratch.
-I explore, clean, and analyze real-world datasets, implement regression models, and develop CNNs for image classification.
-Through each project, I aim to understand algorithms at a deep level and improve my practical skills step by step.
+I am learning Machine Learning and continuously improving my skills.
+I am passionate about building models from scratch, experimenting with real-world datasets, and applying my knowledge in practical projects.
+I am seeking opportunities to contribute to responsible and challenging projects, while continuing to grow as a professional.
 
-Data Analytics
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayadyan.077) 
 
